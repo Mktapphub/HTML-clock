@@ -8,5 +8,5 @@
 5. History button (just for fun)
 
 
-   i think it will be helpful for the beginners.
+i think it will be helpful for the beginners.
    # Happy coding !
