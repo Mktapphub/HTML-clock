@@ -4,7 +4,7 @@ function clock () {
     var hours = horaAgora.getHours ();
     var minutes = horaAgora.getMinutes ();
     var seconds = horaAgora.getSeconds ();
-    var text = "Am"
+    var text = "AM"
     var s= 0 ;
     if(hours === 0){
       hours = 12;
